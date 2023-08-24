@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Elegance Residency",
+    "price": "58,750",
+    "detail": "Sarjapur Main Road, Bellandur, Bangalore, Karnataka",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Taj Cityscape Apartments",
+    "price": "72,950",
+    "detail": "Gomti Nagar Extension, Lucknow, Uttar Pradesh",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Krishna Enclave",
+    "price": "40,500",
+    "detail": "Bypass Road, Madhapur, Hyderabad, Telangana",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Prestige Heights",
+    "price": "95,200",
+    "detail": "Koramangala, Bangalore, Karnataka",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Golden Orchid Villas",
+    "price": "81,300",
+    "detail": "Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Paradise Greens",
+    "price": "53,600",
+    "detail": "Banjara Hills, Hyderabad, Telangana",
+    "image": "./r3.png"
+  }
+]
